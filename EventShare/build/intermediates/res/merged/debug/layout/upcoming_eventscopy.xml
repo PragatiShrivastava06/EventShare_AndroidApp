@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    tools:context="edu.scu.eventshare.EventActivity"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="10dp"
+    android:contextClickable="true">
+    <ListView
+        android:id="@+id/lstvwEvents"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:layout_marginTop="10dp"
+        android:minHeight="40dp"
+        android:divider="@drawable/gradient"
+        android:background="@drawable/gradient"
+        android:cacheColorHint="@android:color/transparent"
+
+        android:dividerHeight="10dp"
+
+        android:smoothScrollbar="true"/>
+
+
+
+</RelativeLayout>

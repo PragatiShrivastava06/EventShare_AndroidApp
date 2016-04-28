@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.scu.eventshare">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="edu.scu.eventshare.EventActivity"
+            android:label="@string/Upcoming"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="edu.scu.eventshare.CreateEventActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="edu.scu.eventshare.EditEventActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="edu.scu.eventshare.ViewEventActivity"
+            android:screenOrientation="portrait"
+            android:icon="@drawable/ic_launcher"
+            android:theme="@style/NoMenu">
+        </activity>
+        <activity
+            android:name="edu.scu.eventshare.ChatActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/app_name">
+        </activity>
+        <service
+            android:name="edu.scu.eventshare.MyService"
+            android:screenOrientation="portrait"
+            android:label="@string/app_name">
+        </service>
+        <receiver android:name="edu.scu.eventshare.AlertReceiver"/>
+        <activity
+            android:name="edu.scu.eventshare.PickFileWithOpenerActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/app_name">
+        </activity>
+
+
+
+        <!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+            App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDC7ivIznZNJcrNYe9AD5zl5-QJzEqELCs" />
+
+    </application>
+
+</manifest>

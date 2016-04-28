@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/mipmap-hdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/mipmap-hdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/mipmap-hdpi-v4/bground.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/mipmap-hdpi/bground.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/mipmap-hdpi-v4/bground.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/mipmap-hdpi/bground.png"
+    }
+]

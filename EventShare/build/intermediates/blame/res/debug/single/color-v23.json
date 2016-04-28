@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

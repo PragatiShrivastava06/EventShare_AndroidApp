@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable-ldpi-v4/list_bg.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable-ldpi/list_bg.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable-ldpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable-ldpi-v4/list_bg.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable-ldpi/list_bg.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable-ldpi/ic_launcher.jpg"
+    }
+]

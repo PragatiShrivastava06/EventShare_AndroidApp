@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    }
+]

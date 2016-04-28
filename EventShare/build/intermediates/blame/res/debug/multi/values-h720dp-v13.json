@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-h720dp/values-h720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 66,
+                        "endOffset": 294
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-h720dp/values-h720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 66,
+                        "endOffset": 294
+                    }
+                }
+            }
+        ]
+    }
+]

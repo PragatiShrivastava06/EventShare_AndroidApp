@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/ic_add_location_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/ic_add_location_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/gradient_bg.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/gradient_bg.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/background4.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/background4.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/update_icon.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/update_icon.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/gradient_pressed_bg.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/gradient_pressed_bg.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/shape.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/shape.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/ic_add_location_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/ic_add_location_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/shape_odd.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/shape_odd.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/list_bg.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/list_bg.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/ic_done_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/ic_done_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/states_selector_list.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/states_selector_list.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/gradient.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/gradient.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/ic_notifications_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/background1.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/background1.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/ic_event_note_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/ic_event_note_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/states_selector_list.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/states_selector_list.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/ic_people_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/ic_people_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/gradient_bg.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/gradient_bg.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/ic_launcher.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/ic_launcher.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/shape_even.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/shape_even.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/ic_people_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/ic_people_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/shape_even.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/shape_even.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/ic_attach_file_white_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/ic_attach_file_white_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/chaticon.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/chaticon.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/launchimage.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/launchimage.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/list_border.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/list_border.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/shape.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/shape.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/gradient_pressed_bg.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/gradient_pressed_bg.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/ic_notifications_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/gmap.gif",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/gmap.gif"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/ic_alarm_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/ic_alarm_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/background1.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/background1.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/ic_attach_file_white_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/ic_attach_file_white_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/list_item_font_secondary.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.klinkerapps/android-chips/1.0.1/res/drawable/list_item_font_secondary.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/ic_alarm_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/ic_alarm_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/bg_img.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/bg_img.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/list_item_font_primary.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.klinkerapps/android-chips/1.0.1/res/drawable/list_item_font_primary.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/bg_chat.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/bg_chat.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/list_bg.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/list_bg.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/shape_odd.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/shape_odd.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/ic_done_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/ic_done_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/ic_event_note_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/ic_event_note_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/update_icon.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/update_icon.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/list_item_font_secondary.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.klinkerapps/android-chips/1.0.1/res/drawable/list_item_font_secondary.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/gradient.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/gradient.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/ic_attach_file_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/ic_attach_file_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/list_item_font_primary.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.klinkerapps/android-chips/1.0.1/res/drawable/list_item_font_primary.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/bg_chat.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/bg_chat.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/ic_attach_file_black_24dp.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/ic_attach_file_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/background4.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/background4.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/bg_img.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/bg_img.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/list_border.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/list_border.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/gmap.gif",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/gmap.gif"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/launchimage.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/launchimage.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/chaticon.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/chaticon.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/ic_launcher.jpg",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/ic_launcher.jpg"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/btnattach.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/src/main/res/drawable/btnattach.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/btnattach.png",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/src/main/res/drawable/btnattach.png"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_cast_light.xml"
+    }
+]

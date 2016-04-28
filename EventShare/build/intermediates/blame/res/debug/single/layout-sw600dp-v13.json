@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShareV10March10PM/EventShare/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout-sw600dp/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/apoorvkhare/Documents/android-samples-master/EventShare/EventShare/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout-sw600dp/design_layout_snackbar.xml"
+    }
+]

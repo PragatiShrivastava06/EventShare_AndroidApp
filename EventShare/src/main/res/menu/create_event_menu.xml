@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_attach"
+        android:title="attach_event"
+        android:icon="@drawable/ic_attach_file_white_24dp"
+        android:orderInCategory="300"
+        app:showAsAction="always" />
+
+   <!-- <item android:id="@+id/action_create"
+        android:title="create_event"
+        android:icon="@drawable/ic_done_black_24dp"
+        android:orderInCategory="400"
+        app:showAsAction="always" />
+-->
+</menu>
